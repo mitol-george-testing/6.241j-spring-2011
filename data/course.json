@@ -1,0 +1,50 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems"
+    ],
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "a484aca3-4847-0aa4-53bc-c1e018a91dc3",
+      "44e7c398-25e6-1b34-19da-0d58641fcc87"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Dynamic Systems and Control",
+  "course_description": "The course addresses dynamic systems, i.e., systems that evolve with time. Typically these systems have inputs and outputs; it is of interest to understand how the input affects the output (or, vice-versa, what inputs should be given to generate a desired output). In particular, we will concentrate on systems that can be modeled by Ordinary Differential Equations (ODEs), and that satisfy certain linearity and time-invariance conditions.\n\nWe will analyze the response of these systems to inputs and initial conditions. It is of particular interest to analyze systems obtained as interconnections (e.g., feedback) of two or more other systems. We will learn how to design (control) systems that ensure desirable properties (e.g., stability, performance) of the interconnection with a given dynamic system.\n",
+  "department_numbers": [
+    "6",
+    "16"
+  ],
+  "extra_course_numbers": "16.338J",
+  "primary_course_number": "6.241J",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams",
+    "Lecture Notes",
+    "Online Textbook"
+  ],
+  "title": "Course Metadata"
+}
